@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @TalineAraujo
-- 👀 I’m interested in desenvolvimento web, aprendizado de máquina e código_limpo.
-- 🌱 I’m currently learning Python e JavaScript(HTML E CSS) para aprimorar meus conhecimentos. 
-- 💞️ I’m looking to collaborate on projetos de código aberto para desenvolver minhas habilidades.
-- 📫 How to reach: Você pode entrar em contato comigo através do meu e-mail: taline.araujo@email.com ou pelo meu perfil do LinkedIn: https://www.linkedin.com/in/taline-araujo-1244aa1b1/
+👋 Olá! Eu sou Taline Araújo
+Sobre Mim
+🌟 Apaixonada por Desenvolvimento Web e Aprendizado de Máquina
+📚 Atualmente aprimorando meus conhecimentos em Python e JavaScript (incluindo HTML e CSS)
+🚀 Enfocada em escrever código limpo e de alta qualidade
+O Que Estou Fazendo
+🌱 Aprendendo constantemente para expandir minhas habilidades
+💡 Explorando novos projetos e tecnologias
+Em Busca de Colaboração
+🤝 Interessada em contribuir para projetos de código aberto
+💻 Disposta a trabalhar em equipe para resolver problemas desafiadores e inovadores
+Como Entrar em Contato
+📧 Email: taline.araujo@email.com
+💼 LinkedIn: linkedin.com/in/taline-araujo-1244aa1b1
 
-<!---
-TalineAraujo/TalineAraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-)
