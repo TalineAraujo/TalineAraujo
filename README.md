@@ -26,7 +26,7 @@ Em Busca de Colaboração
 
 Como Entrar em Contato
 
-📧 Email: taline.araujo@email.com
+📧 Email: taline.araujo@hotmail.com
 
 💼 LinkedIn: linkedin.com/in/taline-araujo-1244aa1b1
 
