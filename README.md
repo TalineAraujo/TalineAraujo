@@ -1,28 +1,8 @@
-👋 Olá! Eu sou Taline Araújo
+Sou desenvolvedora em transição de carreira e utilizo este espaço para registrar minha evolução através de projetos práticos e estudos.
 
+Atualmente, tenho direcionado meus estudos para Segurança da Informação, Inteligência Artificial Generativa (LLMs) e Automação Inteligente, explorando como essas áreas podem ser aplicadas no desenvolvimento de soluções úteis e bem estruturadas.
 
-Sobre Mim
-
-🌟 Apaixonada por Desenvolvimento Web e Aprendizado de Máquina
-
-📚 Atualmente aprimorando meus conhecimentos em Java e JavaScript (incluindo HTML e CSS)
-
-🚀 Enfocada em escrever código limpo e de alta qualidade
-
-
-O Que Estou Fazendo
-
-🌱 Aprendendo constantemente para expandir minhas habilidades
-
-💡 Explorando novos projetos e tecnologias
-
-
-Em Busca de Colaboração
-
-🤝 Interessada em contribuir para projetos de código aberto
-
-💻 Disposta a trabalhar em equipe para resolver problemas desafiadores e inovadores
-
+Aqui você vai encontrar projetos pessoais, experimentos, integrações, automações e aprendizados que fazem parte da minha jornada, sempre com o objetivo de evoluir tecnicamente e construir uma base sólida como desenvolvedora
 
 Como Entrar em Contato
 
